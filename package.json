@@ -1,0 +1,19 @@
+{
+  "name": "nodixdemo",
+  "version": "1.0.0",
+  "description": "First Node.js Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moz-fr/nodixdemo.git"
+  },
+  "author": "Moz-FR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moz-fr/nodixdemo/issues"
+  },
+  "homepage": "https://github.com/moz-fr/nodixdemo"
+}
